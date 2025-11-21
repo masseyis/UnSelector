@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <Id>com.penchi.AutoClearSelection</Id>
+  <Version>1.0</Version>
+  <Author>James Massey | james@penchi.co.uk</Author>
+  <Name>AutoClearSelection</Name>
+  <Category>Pattern</Category>
+  <Description>Automatically clears pattern selections when cursor moves outside selection bounds</Description>
+  <ThumbnailPath>thumbnail.png</ThumbnailPath>
+  <Donate>http://ko-fi.com/masseyis</Donate>
+  <Repository>https://github.com/masseyis/AutoClearSelection</Repository>
+  <CoverPath>cover.png</CoverPath>
+  <License>MIT</License>
+</RenoiseScriptingTool>
