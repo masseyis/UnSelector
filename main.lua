@@ -1,4 +1,4 @@
--- AutoClearSelection main.lua
+-- UnSelector main.lua
 -- Automatically clears pattern selections when the cursor moves outside selection bounds
 
 local rs = renoise.song
