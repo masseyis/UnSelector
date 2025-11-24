@@ -5,7 +5,7 @@
 .claude/
 
 # Build output
-com.penchi.AutoClearSelection.xrnx
+com.penchi.UnSelector.xrnx
 
 # User preferences (if any)
 preferences.xml

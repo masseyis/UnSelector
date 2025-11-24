@@ -1,6 +1,6 @@
-# AutoClearSelection — Smart Selection Behavior for Renoise
+# UnSelector — Smart Selection Behavior for Renoise
 
-**AutoClearSelection** is a Renoise tool that makes pattern selections behave more intuitively for keyboard-driven workflows.
+**UnSelector** is a Renoise tool that makes pattern selections behave more intuitively for keyboard-driven workflows.
 
 ## The Problem
 
@@ -8,7 +8,7 @@ In Renoise, selections persist even after you move the cursor outside the select
 
 ## The Solution
 
-AutoClearSelection automatically clears the pattern selection whenever you move the cursor outside the selection bounds. This makes selections behave more like traditional text editors: **selections only matter when you're actively inside them**.
+UnSelector automatically clears the pattern selection whenever you move the cursor outside the selection bounds. This makes selections behave more like traditional text editors: **selections only matter when you're actively inside them**.
 
 ---
 
@@ -80,7 +80,7 @@ This tool was created to complement **[KeyScale](https://github.com/masseyis/Key
 
 ---
 
-## ❤️ Why AutoClearSelection?
+## ❤️ Why UnSelector?
 
 For keyboard-driven workflows, having selections persist after cursor movement can be confusing and error-prone. This tool makes Renoise behave more like traditional editors, where **the cursor position is always your primary focus**, and selections are temporary working regions that clear when you move away.
 
